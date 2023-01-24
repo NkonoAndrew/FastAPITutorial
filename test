@@ -1,0 +1,7 @@
+uvicorn app.main:app --reload
+
+python3 -m venv venv   
+
+Alembic: database migration tool, incremental changes to the database
+
+
